@@ -1,0 +1,11 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: stretch;
+    width: 1000px;
+    color: white;
+    font-size: 30px;
+}

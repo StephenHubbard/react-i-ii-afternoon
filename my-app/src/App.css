@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #282c34;
+}
+
+/* ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  align-content: stretch;
+  width: 1000px;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  color: white;
+  font-size: 30px;
+} */
+
+
