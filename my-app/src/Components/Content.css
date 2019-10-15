@@ -58,17 +58,7 @@ ul {
     margin: 20px;
 }
 
-.threeBtns > li {
-    list-style-type: none;
-    padding: 1px;
-    background-color: #34a5da;
-    border-radius: 20px;
-    width: 100px;
-    height: 40px;
-    font-size: 20px;
-    text-align: center;
-    
-}
+
 
 button {
     margin: 0;
@@ -104,4 +94,17 @@ div {
     display: flex;
     justify-content: space-between;
     width: 340px;
+    margin: auto;
+}
+
+.threeBtns > li {
+    list-style-type: none;
+    padding-top: 8px;
+    background-color: #34a5da;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
 }
